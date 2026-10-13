@@ -1,3 +1,6 @@
 {
-  "attachmentFolderPath": "z_attached image"
+  "attachmentFolderPath": "z_attached image",
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative"
 }
