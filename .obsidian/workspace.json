@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.ABC Corp — Initial Project Setup.md",
+                "file": "5.ABC Corp - AD Config.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.ABC Corp — Initial Project Setup"
+              "title": "5.ABC Corp - AD Config"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.ABC Corp — Initial Project Setup.md",
+                "file": "5.ABC Corp - AD Config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.ABC Corp — Initial Project Setup.md",
+                "file": "5.ABC Corp - AD Config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.ABC Corp — Initial Project Setup.md",
+                "file": "5.ABC Corp - AD Config.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,21 +190,22 @@
   },
   "active": "fc75b19084dc0f0d",
   "lastOpenFiles": [
-    "2.ABC Corp — Initial Project Config.md",
-    "4.ABC Corp — AD Creation.md",
-    "5.ABC Corp - AD Config.md",
     "6.ABC Corp — Joining a Windows Client to an Active Directory Domain.md",
     "7.ABC Corp - Active Directory Password Policy Explained.md",
+    "z_attached image/Pasted image 20261013221326.png",
+    "z_attached image/Pasted image 20261013221320.png",
+    "z_attached image/Pasted image 20261013221308.png",
+    "z_attached image/Pasted image 20261013221302.png",
+    "z_attached image/Pasted image 20261013221255.png",
+    "z_attached image/Pasted image 20261013221246.png",
+    "z_attached image/Pasted image 20261013221236.png",
+    "z_attached image/Pasted image 20261013221226.png",
+    "z_attached image/Pasted image 20261013221213.png",
+    "2.ABC Corp — Initial Project Config.md",
+    "1.ABC Corp — Initial Project Setup.md",
+    "4.ABC Corp — AD Creation.md",
+    "5.ABC Corp - AD Config.md",
     "z_attached image/Pasted image 20261013215930.png",
-    "z_attached image/Pasted image 20261013215920.png",
-    "z_attached image/Pasted image 20261013215838.png",
-    "z_attached image/Pasted image 20261013215825.png",
-    "z_attached image/Pasted image 20261013215816.png",
-    "z_attached image/Pasted image 20261013215744.png",
-    "z_attached image/Pasted image 20261013215711.png",
-    "z_attached image/Pasted image 20261013215656.png",
-    "z_attached image/Pasted image 20261013215640.png",
-    "z_attached image/Pasted image 20261013215612.png",
     "README.md"
   ]
 }
