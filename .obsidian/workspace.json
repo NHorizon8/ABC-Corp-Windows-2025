@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.ABC Corp - AD Config.md",
+                "file": "8.ABC Corp - Fine-Grained Password Policies (FGPP).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.ABC Corp - AD Config"
+              "title": "8.ABC Corp - Fine-Grained Password Policies (FGPP)"
+            }
+          },
+          {
+            "id": "c77ceb07baa83fc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.ABC Corp — Initial Project Setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.ABC Corp — Initial Project Setup"
             }
           }
         ]
@@ -83,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "35e57a1491cfd6f1",
@@ -190,22 +205,25 @@
   },
   "active": "fc75b19084dc0f0d",
   "lastOpenFiles": [
-    "6.ABC Corp — Joining a Windows Client to an Active Directory Domain.md",
-    "7.ABC Corp - Active Directory Password Policy Explained.md",
-    "z_attached image/Pasted image 20261013221326.png",
-    "z_attached image/Pasted image 20261013221320.png",
-    "z_attached image/Pasted image 20261013221308.png",
-    "z_attached image/Pasted image 20261013221302.png",
-    "z_attached image/Pasted image 20261013221255.png",
-    "z_attached image/Pasted image 20261013221246.png",
-    "z_attached image/Pasted image 20261013221236.png",
-    "z_attached image/Pasted image 20261013221226.png",
-    "z_attached image/Pasted image 20261013221213.png",
-    "2.ABC Corp — Initial Project Config.md",
+    "z_attached image/Pasted image 20261014152652.png",
+    "z_attached image/Pasted image 20261014152439.png",
+    "z_attached image/Pasted image 20261014152228.png",
+    "z_attached image/Pasted image 20261014150602.png",
+    "z_attached image/Pasted image 20261014150534.png",
+    "z_attached image/Pasted image 20261014150352.png",
     "1.ABC Corp — Initial Project Setup.md",
-    "4.ABC Corp — AD Creation.md",
+    "8.ABC Corp - Fine-Grained Password Policies (FGPP).md",
+    "z_attached image/Pasted image 20261014150233.png",
+    "z_attached image/Pasted image 20261014150116.png",
+    "z_attached image/Pasted image 20261014131014.png",
+    "z_attached image/Pasted image 20261014130618.png",
+    "z_attached image/Pasted image 20261014130526.png",
+    "7.ABC Corp - Active Directory Password Policy Explained.md",
+    "file:/home/itachi/Downloads/Video_10_FGPP_ABC_Corp_Hindi.md",
     "5.ABC Corp - AD Config.md",
-    "z_attached image/Pasted image 20261013215930.png",
+    "6.ABC Corp — Joining a Windows Client to an Active Directory Domain.md",
+    "2.ABC Corp — Initial Project Config.md",
+    "4.ABC Corp — AD Creation.md",
     "README.md"
   ]
 }
