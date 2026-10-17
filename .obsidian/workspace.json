@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "cdb8fd3b413c00eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9.ABC Corp — Additional Domain Controller & Active Directory Redundancy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9.ABC Corp — Additional Domain Controller & Active Directory Redundancy"
+            }
+          },
+          {
             "id": "c77ceb07baa83fc9",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "1.ABC Corp — Initial Project Setup"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "35e57a1491cfd6f1",
@@ -203,21 +217,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "fc75b19084dc0f0d",
+  "active": "f547d7a6a2c208a7",
   "lastOpenFiles": [
-    "z_attached image/Pasted image 20261014152652.png",
-    "z_attached image/Pasted image 20261014152439.png",
-    "z_attached image/Pasted image 20261014152228.png",
-    "z_attached image/Pasted image 20261014150602.png",
-    "z_attached image/Pasted image 20261014150534.png",
-    "z_attached image/Pasted image 20261014150352.png",
+    "9.ABC Corp — Additional Domain Controller & Active Directory Redundancy.md",
+    "z_attached image/Pasted image 20261016150804.png",
+    "z_attached image/Pasted image 20261016150619.png",
+    "z_attached image/Pasted image 20261016150555.png",
+    "z_attached image/Pasted image 20261016150423.png",
+    "z_attached image/Pasted image 20261016150358.png",
+    "z_attached image/Pasted image 20261016150240.png",
+    "z_attached image/Pasted image 20261016150156.png",
+    "z_attached image/Pasted image 20261016150056.png",
+    "z_attached image/Pasted image 20261016145243.png",
+    "z_attached image/Pasted image 20261016144948.png",
+    "Untitled.md",
     "1.ABC Corp — Initial Project Setup.md",
     "8.ABC Corp - Fine-Grained Password Policies (FGPP).md",
-    "z_attached image/Pasted image 20261014150233.png",
-    "z_attached image/Pasted image 20261014150116.png",
-    "z_attached image/Pasted image 20261014131014.png",
-    "z_attached image/Pasted image 20261014130618.png",
-    "z_attached image/Pasted image 20261014130526.png",
+    "Untitled.canvas",
     "7.ABC Corp - Active Directory Password Policy Explained.md",
     "file:/home/itachi/Downloads/Video_10_FGPP_ABC_Corp_Hindi.md",
     "5.ABC Corp - AD Config.md",
