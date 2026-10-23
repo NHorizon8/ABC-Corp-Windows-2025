@@ -97,7 +97,7 @@ Use this roadmap to organize the lab. Mark an item complete only after performin
 - [ ] **07 — Group Policy:** GPO links, inheritance, policy refresh, and resultant-policy verification
 - [ ] **08 — Account security:** password policy, account lockout policy, and fine-grained password policies
 - [ ] **09 — Administration and troubleshooting:** event logs, common AD/DNS failures, and documented recovery steps
-
+- [ ] **10 — FSMO Roles in Active Directory:** Fundamental  understanding, verification, GUI veryfication
 ## Repository guide
 
 Keep the repository easy to navigate as the lab grows. Replace the example paths below with the actual paths when the corresponding files are added.
